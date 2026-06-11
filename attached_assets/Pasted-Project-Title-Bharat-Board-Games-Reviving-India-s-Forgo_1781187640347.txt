@@ -1,0 +1,297 @@
+Project Title: Bharat Board Games – Reviving India's Forgotten Strategic Heritage
+
+Build a complete, modern, responsive Progressive Web Application (PWA) that digitally preserves and revives ancient Indian board games through interactive gameplay, historical storytelling, and cultural education.
+
+PROJECT VISION
+
+Create a premium heritage-inspired gaming platform that showcases India's forgotten board games and their historical significance. The platform should blend authentic Indian culture, mythology, history, and strategic gameplay into a modern digital experience.
+
+The overall experience should feel like entering an ancient royal Indian palace, temple corridor, or heritage museum where traditional games are preserved and brought to life through technology.
+
+DESIGN SYSTEM
+
+Theme:
+Ancient Indian Heritage + Royal Palace + Vintage Museum Experience
+
+Color Palette:
+Primary Background: #FDF3D4
+Primary Gold: #E8922E
+Accent Saffron: #A32203
+Dark Heritage Brown: #501204
+
+Additional styling:
+
+* Rich golden gradients
+* Ancient manuscript textures
+* Temple-inspired borders
+* Traditional Indian motifs
+* Elegant typography
+* Vintage scroll-style cards
+* Subtle glowing effects
+* Soft shadows
+* Premium gaming aesthetic
+
+The UI should feel warm, royal, cultural, educational, and immersive.
+
+PWA REQUIREMENTS
+
+* Fully responsive design
+* Mobile-first approach
+* Installable PWA
+* Offline support
+* Fast loading
+* Smooth animations
+* Vercel deployment ready
+
+LANDING PAGE
+
+Hero Section:
+
+* Large heritage-themed hero banner
+* Animated ancient board game pieces
+* Tagline:
+
+"Rediscover India's Forgotten Games"
+
+Subheading:
+
+"Experience the strategic wisdom, mythology, and cultural heritage of ancient Indian civilizations through interactive gameplay."
+
+Buttons:
+
+* Explore Games
+* Learn Heritage
+
+Include subtle floating animations inspired by ancient Indian symbols.
+
+SECTIONS
+
+1. Featured Games
+
+Display playable games:
+
+1. Chaupar (Fully Functional)
+2. Pallanguzhi (Fully Functional)
+
+Game cards should include:
+
+* Illustration
+* Short description
+* Historical significance
+* Play button
+* Learn More button
+
+2. Coming Soon Games
+
+Display attractive cards marked as:
+
+Coming Soon
+
+Include:
+
+* Adu Puli Attam
+* Gyan Chauper
+* Moksha Patam
+* Navakankari
+* Pachisi
+
+Each card should contain:
+
+* Brief description
+* Estimated release badge
+* Historical preview
+
+GAME EXPERIENCE
+
+For every playable game:
+
+A. Play Mode
+
+Players can:
+
+* Start game
+* Restart
+* Read rules
+* Learn history
+
+B. Learn About This Game Section
+
+This is a major feature.
+
+When the user clicks "Learn About This Game":
+
+Open a beautiful animated modal or side panel.
+
+Animation Concept:
+The ancient game board slowly unfolds like a scroll or manuscript.
+
+Inside the experience include:
+
+1. Origin Story
+
+* When the game originated
+* Region of India
+* Historical background
+
+2. Cultural Significance
+
+* Role in Indian society
+* Mythological references
+
+3. How It Was Played
+
+* Traditional rules
+* Equipment used
+* Number of players
+
+4. Interesting Facts
+
+* Ancient references
+* Royal usage
+* Cultural impact
+
+5. Visual Timeline
+
+* Evolution through history
+
+6. Board Explanation
+
+Interactive hotspots explaining:
+
+* Board layout
+* Tokens
+* Symbols
+* Winning conditions
+
+The educational experience should feel like a museum exhibit.
+
+GAME IMPLEMENTATION
+
+1. CHAUPAR
+
+Fully playable.
+
+Features:
+
+* Traditional board layout
+* Turn-based gameplay
+* Dice mechanics
+* Token movement
+* Win condition implementation
+* Traditional themed board design
+
+Learning Module:
+
+* Mahabharata connection
+* Royal courts
+* Ancient Indian strategy
+
+2. PALLANGUZHI
+
+Fully playable.
+
+Features:
+
+* Authentic Pallanguzhi board
+* Seed movement mechanics
+* Turn logic
+* Score calculation
+* Win conditions
+
+Learning Module:
+
+* South Indian heritage
+* Traditional gameplay culture
+* Mathematical thinking aspects
+
+ADDITIONAL FEATURES
+
+Heritage Library
+
+Create a dedicated page containing:
+
+* Ancient games encyclopedia
+* Historical articles
+* Cultural references
+* Traditional illustrations
+
+Interactive India Map
+
+Display India map showing:
+
+* Origin regions of games
+* Historical locations
+* Cultural information
+
+Achievements
+
+Unlock badges such as:
+
+* Heritage Explorer
+* Chaupar Master
+* Pallanguzhi Scholar
+* Ancient Strategist
+
+Audio Experience
+
+Optional ambient sounds:
+
+* Temple bells
+* Ancient instruments
+* Soft traditional music
+
+Allow users to mute audio.
+
+ANIMATIONS
+
+Use:
+
+* Scroll opening effects
+* Ancient manuscript transitions
+* Board assembly animations
+* Hover effects
+* Gold glow highlights
+* Smooth page transitions
+
+TECH STACK
+
+Frontend:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+PWA:
+
+* next-pwa
+
+Backend:
+
+* Supabase
+
+Database:
+
+* Supabase PostgreSQL
+
+Deployment:
+
+* Vercel
+
+STRUCTURE
+
+Pages:
+
+* Home
+* Games
+* Game Details
+* Heritage Library
+* About Project
+
+Create clean, scalable architecture with reusable components.
+
+FINAL GOAL
+
+The project should not feel like a generic gaming website.
+
+It should feel like a digital museum, cultural archive, and gaming platform combined into one immersive experience that celebrates India's forgotten board game heritage while making them enjoyable for modern audiences.

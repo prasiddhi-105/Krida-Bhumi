@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Kridaभूमि: The Ancient Arcade"
+version = "1.0.0"
+id = "artifacts/kridabhoomi"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20532
+
+[services.development]
+run = "pnpm --filter @workspace/kridabhoomi run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kridabhoomi", "run", "build" ]
+publicDir = "artifacts/kridabhoomi/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20532"
+BASE_PATH = "/"
