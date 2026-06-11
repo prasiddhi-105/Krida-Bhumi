@@ -63,19 +63,19 @@ Version Control:
 
 ### Home Page
 
-![Home](./screenshots/home.png)
+![Home](Home.png)
 
 ### Chaupar Gameplay
 
-![Chaupar](./screenshots/chaupar.png)
+![Chaupar](ChauparGameplay.png)
 
 ### Pallanguzhi Gameplay
 
-![Pallanguzhi](./screenshots/pallanguzhi.png)
+![Pallanguzhi](PallanguzhiGameplay.png)
 
 ### Learning Module
 
-![Learning](./screenshots/learning.png)
+![Learning](LearningModule.png)
 
 ## 🇮🇳 Cultural Impact
 
