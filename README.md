@@ -4,7 +4,7 @@
 
 A Progressive Web Application dedicated to preserving, digitizing, and celebrating ancient Indian board games through interactive gameplay, cultural storytelling, and historical education.
 
-![Kridaभूमि Banner](./assets/banner.png)
+![Kridaभूमि Banner](banner.png)
 
 ## 📖 Problem Statement
 
